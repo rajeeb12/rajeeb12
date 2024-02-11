@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajeeb1206" target="blank"><img src="https://img.shields.io/twitter/follow/rajeeb1206?logo=twitter&style=for-the-badge" alt="rajeeb1206" /></a> </p>
 
-- 🔭 I’m currently working on **Chat appliaction**
+- 🔭 I’m currently working on **Something interesting**
 
 - 🌱 I’m currently learning **Backend framework**
 
